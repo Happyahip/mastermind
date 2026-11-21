@@ -1,2 +1,2 @@
 # mastermind
-the odin project ruby basic
+A Simple ruby Terminal Game in [the odin project](https://www.theodinproject.com/lessons/ruby-mastermind)
